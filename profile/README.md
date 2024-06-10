@@ -1,19 +1,15 @@
-This repositories groups and describe my github projects
+This repositories groups and describe my github projects, stored in davide-1536 account.
 
 <table>
     <tr>
         <th colspan="2">Machine learning projects</th>
     </tr>
     <tr>
-        <th>project name</th>
-        <th>project description</th>
+        <th>Project Name</th>
+        <th>Brief Description</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td> <a href="https://github.com/davide1536/shapley_values"> Shapley Values - Game theory approach for machine learning </a> </td>
+        <td> Used shapley values to help the model's explainability </td>
     </tr>
 </table>
-
-| Project Name | Little description |
-|--------------|--------------------|
-|[Shapley Values - Game theory approach for machine learning](https://github.com/davide1536/shapley_values)| Used shapley values to help the model's explainability|
