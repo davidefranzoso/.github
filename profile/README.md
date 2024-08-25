@@ -1,4 +1,4 @@
-This repositories groups and describe my github projects, stored in davide-1536 account.
+This repositories groups and describe some of my github projects, stored in davide-1536 account.
 
 <table>
     <tr>
