@@ -20,4 +20,8 @@ This repositories groups and describe some of my github projects, stored in davi
         <td> <a href="https://github.com/davide1536/rednet_finetuning/tree/main?tab=readme-ov-file"> Semantic segmentator fine tuning </a> </td>
         <td> In this project I've fine tuned the rednet network (semantic segmentator) using a custom dataset, collected from matterport 3d simulator. </td>
     </tr>
+     <tr>
+        <td> <a href="https://github.com/davide1536/license_plate_recognition"> License plate recognition </a> </td>
+        <td> In this project I have designed and developed a software that it is able to detects and recognize license plate within an image. The framework that I have used in this project is OpenCV. </td>
+    </tr>
 </table>
