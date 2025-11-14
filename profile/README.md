@@ -27,6 +27,6 @@ This repositories groups and describe some of my github projects, stored in davi
 
      <tr>
         <td> <a href="https://github.com/davide1536/rag_chatbot"> RAG CHATBOT </a> </td>
-        <td> In this project I have designed and developed a RAG chatbot from scratch using langchain, langgraph (backend) and streamlit (frontend)</td>
+        <td> In this project I have designed and developed a RAG chatbot from scratch using langchain, langgraph (backend) and streamlit (frontend) </td>
     </tr>
 </table>
