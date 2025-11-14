@@ -24,7 +24,6 @@ This repositories groups and describe some of my github projects, stored in davi
         <td> <a href="https://github.com/davide1536/license_plate_recognition"> License plate recognition </a> </td>
         <td> In this project I have designed and developed a software that it is able to detects and recognize license plate within an image. The framework that I have used in this project is OpenCV. </td>
     </tr>
-
      <tr>
         <td> <a href="https://github.com/davide1536/rag_chatbot"> RAG CHATBOT </a> </td>
         <td> In this project I have designed and developed a RAG chatbot from scratch using langchain, langgraph (backend) and streamlit (frontend) </td>
